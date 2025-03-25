@@ -3,7 +3,8 @@
 # 2. Solicita al usuario que ingrese texto
 # 3. Llama a un servicio de análisis de texto para determinar el idioma del texto
 # 4. Muestra el idioma detectado
-
+# Para mas informacón sobre el uso de los servicios de IA de Azure, consulte el repositorio de GitHub de Microsoft Learning en:
+# https://github.com/MicrosoftLearning/AI-102-AIEngineer
 
 # Importar las bibliotecas necesarias
 
